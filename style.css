@@ -3,4 +3,22 @@ h1{
     colour: white;
     text-align: center;
     font-weight: bold;
+    font-size: 42px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+li{
+    text-align: center;
+    font-size: 36px;
+
+}
+
+ul{
+    list-style: none;
 }
