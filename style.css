@@ -11,6 +11,9 @@ img{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    border-radius: 20%;
+    border-style: groove;
+    border-color: aqua;
 }
 
 li{
