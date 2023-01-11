@@ -19,9 +19,12 @@ img{
 li{
     text-align: center;
     font-size: 36px;
-
+    margin: 50px;
+    display: block;
+    width: 50%;
 }
 
 ul{
     list-style: none;
+    display: flex;
 }
