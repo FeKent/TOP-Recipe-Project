@@ -1,0 +1,17 @@
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: aqua;
+}
+
+h4,
+p{
+    text-align: center;
+}
