@@ -16,3 +16,15 @@ p{
     text-align: center;
 }
 
+ol.right {
+    margin-left: 270px;
+}
+
+
+h5.steps {
+    margin-left: 290px;
+}
+
+ul.left {
+    position: absolute;
+}
