@@ -16,15 +16,24 @@ p{
     text-align: center;
 }
 
-ol.right {
-    margin-left: 270px;
+
+*{border: 2px solid red;}
+
+.body{
+    display: flex;
+    gap: 10px;
 }
 
-
-h5.steps {
-    margin-left: 290px;
+.ingred{
+    display: flex;
+    width: 450px;
+    flex-wrap: wrap;
+    flex-grow: 10;
 }
 
-ul.left {
-    position: absolute;
+ol{
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: -1;
+    max-width: 400px;
 }
