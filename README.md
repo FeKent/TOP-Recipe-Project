@@ -1,4 +1,4 @@
-# odin-recipes
+# Recipes Website
 The Odin Project: HTML Recipes
 
 The project was to make a website with several web pages linked to a different recipe
