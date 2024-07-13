@@ -1,7 +1,7 @@
 # Recipes Website
-The Odin Project: HTML Recipes
+The Odin Project: https://www.theodinproject.com/
 
-The project was to make a website with several web pages linked to a different recipe
+The project was to make a website with several web pages linked to different recipes
 
 It demonstrates the skills:
 - Forming a html boilerplate
